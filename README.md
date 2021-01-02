@@ -1,6 +1,11 @@
 # StegoPhone
 StegoPhone organizational repository, mainly with wiki and issues attached.
 
+## Social Media/Web
+* Twitter - https://twitter.com/Stego_Phone -> active!
+* LinkedIn - https://www.linkedin.com/company/stegophone
+* Website - https://StegoPhone.com/ -> offline/todo, for now, the Wiki is it!
+
 ## Documentation/Planning
 * Wiki/Documentation - https://github.com/StegoPhone/StegoPhone/wiki
 * Project Tracking - https://github.com/orgs/StegoPhone/projects
