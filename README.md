@@ -12,3 +12,11 @@ I am going to be working on a writeup in the Wiki with a statement of purpose an
 This is going to be an amazing project.
 
 In case you didn't know- StegoPhone's goal is to use sub-audible communications techniques to exchange some data during regular phone calls, which could be used for things like exchanging encryption keys or even just text chat which would still work even in a multi-user conference since it will be a packet-radio like retransmission system. The bulk of StegoPhone is producing essentially a mobile, tiny, SDR platform wedged between two bluetooth adapters. Once keys have been exchanged with all the users on the call, the display will indicate and then you'll be able to switch to fully encrypted calls.
+
+# Repositories
+* https://github.com/StegoPhone/StegoPhone - Top-level repo mainly for coordination and placeholder for Wikis/Projects
+* https://github.com/StegoPhone/StegOS - Primary Real-Time Operating System Teensy/Arduino code that comprises the actual device
+* https://github.com/StegoPhone/StegoPhone-Hardware - schematics, documentation related to the hardware.
+* https://github.com/StegoPhone/StegoPhone-Artwork - logos, vector art, etc.
+* https://github.com/StegoPhone/StegoPhone-Xamarin - Android app to facilitate pairing, ease of use- optional- Device should work without this.
+* https://github.com/StegoPhone/StegoPhone-Blazor - Web front-end to manage profile, preferences, StegoPhone website. 
