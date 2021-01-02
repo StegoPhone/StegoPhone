@@ -1,7 +1,7 @@
 # StegoPhone
 StegoPhone organizational repository, mainly with wiki and issues attached.
 
-See the Wiki!
+See the Wiki -> https://github.com/StegoPhone/StegoPhone/wiki!
 
 I've been enjoying my vacation some, but I've also been iterating the code a little further along. I'm trying not to develop much code around the RN-52's I have on hand, but am expecting some beautiful new BM83 boards from my hardware guy Chris Burgess!
 
