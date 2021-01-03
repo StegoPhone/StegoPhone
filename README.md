@@ -5,6 +5,7 @@ StegoPhone organizational repository, mainly with wiki and issues attached.
 * Twitter - https://twitter.com/Stego_Phone -> active!
 * LinkedIn - https://www.linkedin.com/company/stegophone
 * Website - https://StegoPhone.com/ -> offline/todo, for now, the Wiki is it!
+* Slack - https://stegophone.slack.com -> Support, Discussion
 
 ## Documentation/Planning
 * Wiki/Documentation - https://github.com/StegoPhone/StegoPhone/wiki
